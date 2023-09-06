@@ -11,14 +11,7 @@ class Person:
 
 
 guido = Person()
-guido = Person()
-
 
 
 guido.talk()
 guido.walk()      
-
-
-
-   
- 
